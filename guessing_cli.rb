@@ -20,7 +20,6 @@ def run_guessing_game
     end
   elsif choice== "exit"
     puts "Goodbye!"
-    "exit"
   else
     puts "Valid choices are 1 to 6"
   end
